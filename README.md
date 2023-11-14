@@ -40,3 +40,14 @@ node index.js
 3. Boolean
 4. undefinded
 5. null
+
+## Dynamic Typing
+
+1. Static Langugae: when declare a variable, the value of the variable is set and it cannot be changed in the future.
+2. Dynamic Language: The type of a variable can change at runtime.
+
+```javascript
+typeof age;
+```
+
+## Object

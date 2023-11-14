@@ -9,4 +9,4 @@ let str = 'Hello'; //String Literal
 let age = 23; //Number Literal
 let isApproved = true; //Boolean Literal
 let firstName; //Undefined
-let lastName = null; // Explicity clear the value of a variable
+let lastName = null; // Explicity clear the value of a variable - an Object type
