@@ -46,9 +46,18 @@ console.log(selectColors);
 console.log(selectColors.length);
 
 
-//Function 
+//Function - Performing a task
 function greet(name, lastName){ //name - parameter
     console.log('Hello ' + name + ' ' + lastName);
 }
 
 greet('John', 'Smith'); //Argument
+
+
+//Calculating a value
+function square(number){
+    return number * number;
+}
+
+let number = square(2);
+console.log(number);
