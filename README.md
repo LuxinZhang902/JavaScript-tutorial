@@ -30,3 +30,7 @@ node index.js
 3. Declare each variable in a single line
 
 ## Constant
+
+1. 'const' instead of 'let'
+
+## Primiary Types
