@@ -54,3 +54,5 @@ typeof age;
 
 1. Reference Type: Objects, Arrays, Function
 2. multiple related variables - put them into an object
+
+## Array

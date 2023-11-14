@@ -27,3 +27,20 @@ let selection = 'name';
 person[selection] = 'Penny';
 
 console.log(person.name);
+
+
+//Array
+let selectColors = ['red', 'blue'];
+console.log(selectColors);
+
+//Adding in the back
+selectColors[2] = 'green';
+console.log(selectColors[0]);
+console.log(selectColors);
+
+//Can add another type
+selectColors[3] = 1;
+console.log(selectColors);
+
+//Length
+console.log(selectColors.length);
