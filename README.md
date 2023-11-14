@@ -50,9 +50,16 @@ node index.js
 typeof age;
 ```
 
-## Object
+## Objects
 
 1. Reference Type: Objects, Arrays, Function
 2. multiple related variables - put them into an object
 
-## Array
+## Arrays
+
+## Functions
+
+1. A set of statements perform a task
+2. By default, it is undefined
+
+## Types of functions

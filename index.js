@@ -44,3 +44,11 @@ console.log(selectColors);
 
 //Length
 console.log(selectColors.length);
+
+
+//Function 
+function greet(name, lastName){ //name - parameter
+    console.log('Hello ' + name + ' ' + lastName);
+}
+
+greet('John', 'Smith'); //Argument
