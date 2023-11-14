@@ -33,4 +33,10 @@ node index.js
 
 1. 'const' instead of 'let'
 
-## Primiary Types
+## Primiary Types / Value Types vs Reference Types
+
+1. String
+2. Number
+3. Boolean
+4. undefinded
+5. null
