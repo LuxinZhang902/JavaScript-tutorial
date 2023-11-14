@@ -17,3 +17,16 @@ node index.js
 ```
 
 ^ + ` ->open the terminal
+
+## Variables
+
+1. To store data temporarily in computer's memory
+2. '' to declare the string in JS
+   - Cannot be a reserved keyword
+   - Should be meaningful
+   - Can't start by a number
+   - Cannot contain a space or hyphen (-)
+   - They are case-sensitive
+3. Declare each variable in a single line
+
+## Constant
